@@ -14,7 +14,11 @@ AI Foundations Program by Woman Go Tech:
 _______________________________________________________________________________________________________________________________________________________________
 * Postman
 * Jira
+* AWS
 * GIT
+* Swagger
+* Figma
+* Confluence
 * TestRail
 * draw.io
 * Windows Resizer
