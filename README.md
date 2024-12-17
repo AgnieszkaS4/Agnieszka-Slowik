@@ -5,6 +5,8 @@ ________________________________________________________________________________
 ###### My goal is to develop testing knowledge and technical skills. On this site I would like to share my all gained experience form projects I participate.
 
 #### **Certificates**
+_______________________________________________________________________________________________________________________________________________________________
+AI Foundations Program by Woman Go Tech:
 [Ai-fundamentals-course.pdf](https://github.com/user-attachments/files/18170711/Ai-fundamentals-course.pdf)
 
 
